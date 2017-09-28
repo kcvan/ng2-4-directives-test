@@ -10,4 +10,7 @@ export class AppComponent {
   oddNumbers = [1, 3, 5];
   evenNumbers = [2, 4];
   onlyOdd = false;
+
+  // for switch cases
+  value: number = 5;
 }
